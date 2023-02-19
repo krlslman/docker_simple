@@ -1,5 +1,5 @@
 
- ## In the terminal ||  To create an image WITH A TAG (best practice)  || 'hello-docker' repository name and ID '1':
+ ### In the terminal ||  To create an image WITH A TAG (best practice)  || 'hello-docker' repository name and ID '1':
  docker build -t hello-docker:1 . 
 
  ## To see the existing docker images:
